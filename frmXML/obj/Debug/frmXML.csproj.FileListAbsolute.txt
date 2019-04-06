@@ -1,0 +1,61 @@
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\bin\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\bin\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.Form1.resources
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.frmClienteCadastro.resources
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.Properties.Resources.resources
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Configurações locais\Dados de aplicativos\Temporary Projects\frmXML\obj\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\bin\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\bin\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.Form1.resources
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.frmClienteCadastro.resources
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.frmClienteConsulta.resources
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.Properties.Resources.resources
+C:\Documents and Settings\Marcelot\Meus documentos\Visual Studio 2008\cpp\frmXML\obj\Debug\frmXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\bin\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\bin\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.Form1.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.frmClienteCadastro.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.frmClienteConsulta.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.Properties.Resources.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.frmProdutoCadastro.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\obj\Debug\frmXML.frmProdutoConsulta.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\bin\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\bin\Debug\frmXML.pdb
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.frmProdutoConsulta.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.Form1.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.frmClienteCadastro.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.frmClienteConsulta.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.frmProdutoCadastro.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.Properties.Resources.resources
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.csproj.GenerateResource.Cache
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.exe
+C:\Documents and Settings\Marcelot\Desktop\olimpio2\LingProgI\aula16frmXML\frmXML\frmXML\obj\Debug\frmXML.pdb
+C:\frmXML\frmXML\obj\Debug\frmXML.exe
+C:\frmXML\frmXML\obj\Debug\frmXML.pdb
+C:\frmXML\frmXML\bin\Debug\frmXML.exe
+C:\frmXML\frmXML\bin\Debug\frmXML.pdb
+C:\frmXML\frmXML\obj\Debug\ResolveAssemblyReference.cache
+C:\frmXML\frmXML\obj\Debug\frmXML.frmProdutoConsulta.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.Form1.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.frmClienteCadastro.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.frmClienteConsulta.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.frmProdutoCadastro.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.Properties.Resources.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.csproj.GenerateResource.Cache
+C:\frmXML\frmXML\obj\Debug\frmXML.lista.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.Form2.resources
+C:\frmXML\frmXML\obj\Debug\frmXML.frmBanco.resources
+C:\frmXML\frmXML\bin\Debug\frmXML.exe.config
+C:\frmXML\frmXML\bin\Debug\Clientes.mdf
+C:\frmXML\frmXML\bin\Debug\Clientes_log.ldf
